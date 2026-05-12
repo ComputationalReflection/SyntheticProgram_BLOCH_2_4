@@ -1,0 +1,13 @@
+BLOCH-2.4;A1.java;9;CLASS_DEC;es.uniovi.reflection.bloch_2_4.noncompliant.A1.A1_II.A1_II_I
+BLOCH-2.4;A1.java;4;CLASS_DEC;es.uniovi.reflection.bloch_2_4.noncompliant.A1.A1_I
+BLOCH-2.4;A1.java;16;CLASS_DEC;es.uniovi.reflection.bloch_2_4.noncompliant.A1.A1_III
+BLOCH-2.4;A1.java;24;CLASS_DEC;es.uniovi.reflection.bloch_2_4.noncompliant.A1.A1_IV
+BLOCH-2.4;A1.java;32;CLASS_DEC;es.uniovi.reflection.bloch_2_4.noncompliant.A1.A1_V
+BLOCH-2.4;A2.java;3;CLASS_DEC;es.uniovi.reflection.bloch_2_4.noncompliant.A2
+BLOCH-2.4;DifferentVisibilityFieldsAndMethodClass.java;3;CLASS_DEC;es.uniovi.reflection.bloch_2_4.noncompliant.DifferentVisibilityFieldsAndMethodClass
+BLOCH-2.4;StaticBlockClass.java;3;CLASS_DEC;es.uniovi.reflection.bloch_2_4.noncompliant.StaticBlockClass
+BLOCH-2.4;MainMethodClass.java;3;CLASS_DEC;es.uniovi.reflection.bloch_2_4.noncompliant.MainMethodClass
+BLOCH-2.4;NestedClassInsideInterface.java;6;CLASS_DEC;es.uniovi.reflection.bloch_2_4.noncompliant.NestedClassInsideInterface.NestedClass
+BLOCH-2.4;WithPrivateStaticMethodsClass.java;3;CLASS_DEC;es.uniovi.reflection.bloch_2_4.noncompliant.WithPrivateStaticMethodsClass
+BLOCH-2.4;StaticTwoConstructors.java;3;CLASS_DEC;es.uniovi.reflection.bloch_2_4.noncompliant.StaticTwoConstructors
+BLOCH-2.4;OuterClassStatic.java;6;CLASS_DEC;es.uniovi.reflection.bloch_2_4.noncompliant.OuterClassStatic.StaticNestedClass
